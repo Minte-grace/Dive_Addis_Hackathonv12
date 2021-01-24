@@ -1,6 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import {
 	View,
+	TouchableHighlight,
 	Image,
 	Text,
 	TouchableOpacity,
