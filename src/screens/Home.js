@@ -16,7 +16,7 @@ import Icon3 from "@expo/vector-icons/Entypo";
 import { PieChart } from "react-native-svg-charts";
 
 const data = [
-	{
+// 	{
 		key: 1,
 		amount: 80,
 		svg: { fill: Colors.colors.light },
